@@ -1,6 +1,8 @@
 # mixedtobit
 Estimate mixed tobit regression models parameters with mixed effects Use mixedtobit With (In) R Software
 
+https://www.youtube.com/watch?v=gDvA5YqutXs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
